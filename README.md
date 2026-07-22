@@ -6,17 +6,6 @@
 
 ---
 
-## 👥 Project Team
-
-| Name | Index Number |
-|------|-------------|
-| Chathuranga H.A.G. | EG/2022/4975 |
-| Deshabandu A.S. | EG/2022/4991 |
-| Herath N.L. | EG/2022/5069 |
-| Weerathunga T.B. | EG/2022/5407 |
-
----
-
 ## 📋 Table of Contents
 
 - [Overview](#overview)
